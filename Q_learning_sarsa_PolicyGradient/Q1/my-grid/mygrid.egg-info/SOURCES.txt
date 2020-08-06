@@ -1,0 +1,7 @@
+README.md
+setup.py
+mygrid.egg-info/PKG-INFO
+mygrid.egg-info/SOURCES.txt
+mygrid.egg-info/dependency_links.txt
+mygrid.egg-info/requires.txt
+mygrid.egg-info/top_level.txt
